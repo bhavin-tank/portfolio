@@ -1,0 +1,200 @@
+{
+  "name": "Bhavin Tank",
+  "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+  "titles": [
+    "Full stack Developer",
+    "NodeJS Developer",
+    "ReactJS Developer",
+    "VueJs Developer",
+    "Angular Developer",
+    "Laravel Developer",
+    "Codeigniter Developer",
+    "Cake PHP Developer"
+  ],
+  "image": "bhavintank.jpeg",
+  "social": [
+    {
+      "name": "github",
+      "url": "https://github.com",
+      "class": "fa:github"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com",
+      "class": "fa:instagram"
+    }
+  ],
+  "skills": [
+    {
+      "text": "HTML5",
+      "icon": "vscode-icons:file-type-html"
+    },
+    {
+      "text": "CSS3",
+      "icon": "vscode-icons:file-type-css"
+    },
+    {
+      "text": "JS",
+      "icon": "vscode-icons:file-type-js-official"
+    },
+    {
+      "text": "jQuery",
+      "icon": "logos:jquery"
+    },
+    {
+      "text": "TS",
+      "icon": "logos:typescript-icon"
+    },
+    {
+      "text": "NodeJS",
+      "icon": "logos:nodejs"
+    },
+    {
+      "text": "ReactJS",
+      "icon": "vscode-icons:file-type-reactjs"
+    },
+    {
+      "text": "VueJS",
+      "icon": "logos:vue"
+    },
+    {
+      "text": "Angular",
+      "icon": "logos:angular-icon"
+    },
+    {
+      "text": "PHP",
+      "icon": "logos:php"
+    },
+    {
+      "text": "Laravel",
+      "icon": "logos:laravel"
+    },
+    {
+      "text": "Cake PHP",
+      "icon": "logos:cakephp-icon"
+    },
+    {
+      "text": "Codeigniter",
+      "icon": "logos:codeigniter"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Animal Shelter",
+      "year": "2020",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "images": [
+        "https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?1582740711",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "text": "HTML5",
+          "icon": "vscode-icons:file-type-html"
+        },
+        {
+          "text": "CSS3",
+          "icon": "vscode-icons:file-type-css"
+        }
+      ]
+    },
+    {
+      "title": "Animal Shelter",
+      "year": "2020",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "images": [
+        "https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?1582740711"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "text": "HTML5",
+          "icon": "vscode-icons:file-type-html"
+        },
+        {
+          "text": "CSS3",
+          "icon": "vscode-icons:file-type-css"
+        }
+      ]
+    },
+    {
+      "title": "Photography",
+      "year": "2018",
+      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "text": "HTML5",
+          "icon": "vscode-icons:file-type-html"
+        },
+        {
+          "text": "CSS3",
+          "icon": "vscode-icons:file-type-css"
+        }
+      ]
+    },
+    {
+      "title": "3D Object Viewer",
+      "year": "2015",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "text": "HTML5",
+          "icon": "vscode-icons:file-type-html"
+        },
+        {
+          "text": "CSS3",
+          "icon": "vscode-icons:file-type-css"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "DefOpenSource",
+      "icon": "vscode-icons:file-type-css",
+      "title": "Front-End Developer",
+      "years": "10.2019 - present",
+      "mainTech": [
+        "Angular 8/9/10"
+      ],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        ".NET Core",
+        "SignalR",
+        "Angular Material"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "icon": "vscode-icons:file-type-css",
+      "title": "Intern",
+      "years": "01.2018 - 09.2019",
+      "mainTech": [
+        "Angular 7/8"
+      ],
+      "technologies": [
+        "RxJS",
+        "Django",
+        "PHP",
+        "JavaScript",
+        "DHTMLX Gantt"
+      ]
+    }
+  ]
+}
