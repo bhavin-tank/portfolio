@@ -11,7 +11,7 @@ function About() {
                 <div className="row center mx-auto mb-5">
                     <div className="col-md-4 mb-5 center">
                         <div className="shadow p-3">
-                            <img height="250px" src={`/images/${image}`} alt="Avatar placeholder"/>
+                            <img height="250px" src={`images/${image}`} alt="Avatar placeholder"/>
                         </div>
                     </div>
                     <div className="col-md-8 center">
